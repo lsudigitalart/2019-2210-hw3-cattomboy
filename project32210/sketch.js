@@ -15,7 +15,7 @@ function draw() {
   let ranR= random(0,255);
   let ranG= random(0,255);
   let ranB= random(0,255);
-  for(x = 1;x <=100;x+1){
+  for(x = 1;x <=1000;x+1){
 	  rany= random(-100,100);
 	  ranR= random(0,255);
 	  ranG= random(0,255);
